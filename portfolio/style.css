@@ -1,0 +1,29 @@
+.site-header{
+    background-color: rgb(178, 210, 211);
+    color: aliceblue;
+    height: 100vh;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header{
+    margin: 50px;
+}
+
+.profile-pic{
+    margin-top: 20%;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    display: flex;
+    box-shadow: 60%;
+}
+
+.link{
+    color:aliceblue;
+
+}
